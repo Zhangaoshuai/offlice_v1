@@ -1,6 +1,6 @@
 show databases ;
-create database 2302a;
 use 2302a;
+create database 2302a;
 CREATE TABLE dept (
                       deptno INT,
                       dname STRING,
